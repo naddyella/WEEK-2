@@ -1,0 +1,29 @@
+package campusLife;
+
+public class DailyRoutine2 {
+	public static void main(String[] args) {
+		System.out.print("05:00");
+		System.out.println ("\twake up and morning preparation");
+		System.out.print("7:30");
+		System.out.println("\tGentle movement");
+		System.out.print("8:00");
+		System.out.println("\tclasses");
+		System.out.print("10:00");
+		System.out.println("\tLeisure time-exploring something new");
+		System.out.print("11:00");
+		System.out.println("\tworking/studying");
+		System.out.print("12:00");
+		System.out.println("\tlunch");
+		System.out.print("13:00");
+		System.out.println("\tCreative time");
+		System.out.print("14:00");
+		System.out.println("\tclass");
+		System.out.print("16:00");
+		System.out.println("\tshort walk");
+		System.out.print("19:00");
+		System.out.println("\tcoding time");
+		System.out.print("21:00");
+		System.out.println("\tnight routine and exploring something new");
+
+}
+}
